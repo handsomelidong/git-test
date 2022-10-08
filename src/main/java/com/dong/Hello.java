@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello!git!2");
         System.out.println("hello!hot-fix!");
         System.out.println("hello！lidong！");
+        System.out.println("你好！");
     }
 }
